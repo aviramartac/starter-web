@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Aviram Alter	aviram@artac.net	blah
 
 # THANKS
 
